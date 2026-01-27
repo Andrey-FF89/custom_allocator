@@ -1,7 +1,1 @@
-# Компилированные файлы
-*.o
-*.exe
-allocator_test
 
-# Системные файлы VS Code
-.vscode/
